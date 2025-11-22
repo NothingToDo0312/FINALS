@@ -450,11 +450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
       "projectName": "ReqResIntegratedApplication.WebApi",
-      "projectPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -475,8 +475,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj": {
-              "projectPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj"
+            "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj"
             }
           }
         }

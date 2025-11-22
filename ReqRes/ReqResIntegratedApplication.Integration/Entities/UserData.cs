@@ -17,21 +17,3 @@ public class UserData
     [JsonPropertyName("avatar")]
     public string Avatar { get; set; }
 }
-
-public class User
-{
-    [JsonPropertyName("page")]
-    public int Page { get; set; }
-
-    [JsonPropertyName("per_page")]
-    public int PerPage { get; set; }
-
-    [JsonPropertyName("total")]
-    public int Total { get; set; }
-
-    [JsonPropertyName("total_pages")]
-    public int TotalPages { get; set; }
-
-    [JsonPropertyName("data")]
-    public List<UserData> Data { get; set; }
-}

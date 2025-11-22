@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj",
       "projectName": "ReqResIntegratedApplication.Integration",
-      "projectPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Downloads\\FINALS\\ReqRes\\ReqResIntegratedApplication.Integration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

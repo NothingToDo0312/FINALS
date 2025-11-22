@@ -16,8 +16,6 @@ namespace ReqResIntegratedApplication.Integration.Services
         protected readonly HttpClient _httpClient;
         protected readonly string _baseUrl;
 
-
-
         public UserService(HttpClient httpClient, string baseUrl)
         {
             _httpClient = httpClient;
