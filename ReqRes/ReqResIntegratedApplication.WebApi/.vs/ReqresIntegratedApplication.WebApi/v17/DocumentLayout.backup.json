@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\entities\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\services\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\igenericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\entities\\resourcedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\entities\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD694EE-50A5-4BAC-91BB-EF7921A2CE92}|..\\ReqResIntegratedApplication.Integration\\ReqResIntegratedApplication.Integration.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.integration\\managers\\iresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82ED799-C5FE-005A-7112-64431532FD35}|..\\Ssasa\\Ssasa.csproj|c:\\users\\windows 10\\downloads\\reqres\\ssasa\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82ED799-C5FE-005A-7112-64431532FD35}|..\\Ssasa\\Ssasa.csproj|c:\\users\\windows 10\\downloads\\reqres\\ssasa\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82ED799-C5FE-005A-7112-64431532FD35}|..\\Ssasa\\Ssasa.csproj|c:\\users\\windows 10\\downloads\\reqres\\ssasa\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82ED799-C5FE-005A-7112-64431532FD35}|..\\Ssasa\\Ssasa.csproj|c:\\users\\windows 10\\downloads\\reqres\\ssasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\reqresintegratedapplication.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:reqresintegratedapplication.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\reqresintegratedapplication.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:reqresintegratedapplication.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|c:\\users\\windows 10\\downloads\\reqres\\reqresintegratedapplication.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D4030BD-DB61-46C9-97B5-4E05213D330D}|ReqResIntegratedApplication.WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:28:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "Controllers\\ResourceController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\ResourceService.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Services\\ResourceService.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\ResourceService.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Services\\ResourceService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\GenericManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\GenericManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\GenericManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\GenericManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\Resource.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Entities\\Resource.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\Resource.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Entities\\Resource.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:56:30.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:18:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Services\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:13:43.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:23:22.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\UserManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:13:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResourceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\ResourceManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\ResourceManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\ResourceManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\ResourceManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IGenericManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\IGenericManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IGenericManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\IGenericManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\PaymentManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\PaymentManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:21:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IUserManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\IUserManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:13:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IPaymentManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\IPaymentManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IPaymentManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\IPaymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:21:33.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:18:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResourceData.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\ResourceData.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Entities\\ResourceData.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\ResourceData.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Entities\\ResourceData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:56:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Entities\\UserData.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\UserData.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Entities\\UserData.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:11:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Entities\\User.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Entities\\User.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T02:11:24.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IResourceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IResourceManager.cs",
+              "RelativeDocumentMoniker": "..\\ReqResIntegratedApplication.Integration\\Managers\\IResourceManager.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.Integration\\Managers\\IResourceManager.cs",
+              "RelativeToolTip": "..\\ReqResIntegratedApplication.Integration\\Managers\\IResourceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:56:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Ssasa\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\Index.cshtml",
+              "RelativeToolTip": "..\\Ssasa\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T09:16:24.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\Ssasa\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "..\\Ssasa\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:16:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Ssasa\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Ssasa\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T09:25:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ssasa\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\Ssasa\\Program.cs",
+              "RelativeToolTip": "..\\Ssasa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:18:17.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T00:54:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T00:55:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReqresIntegratedApplication.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqresIntegratedApplication.WebApi.http",
+              "RelativeDocumentMoniker": "ReqresIntegratedApplication.WebApi.http",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqresIntegratedApplication.WebApi.http",
+              "RelativeToolTip": "ReqresIntegratedApplication.WebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-05T00:54:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReqResIntegratedApplication.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
+              "RelativeDocumentMoniker": "ReqResIntegratedApplication.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\ReqResIntegratedApplication.WebApi.csproj",
+              "RelativeToolTip": "ReqResIntegratedApplication.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T00:54:59.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Windows 10\\Downloads\\ReqRes\\ReqResIntegratedApplication.WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T00:54:59.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

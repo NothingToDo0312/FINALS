@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h1>Users</h1>
+
+@if (Model.Users == null || !Model.Users.Any())
+{
+    <p class="text-muted">No users found.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Avatar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>@($"{user.First_Name} {user.Last_Name}")</td>
+                    <td>@user.Email</td>
+                    <td>
+                        <img src="@user.Avatar" alt="Avatar" width="50" height="50" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

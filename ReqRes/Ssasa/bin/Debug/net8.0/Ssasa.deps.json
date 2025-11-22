@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ssasa/1.0.0": {
+        "dependencies": {
+          "ReqResIntegratedApplication.Integration": "1.0.0"
+        },
+        "runtime": {
+          "Ssasa.dll": {}
+        }
+      },
+      "ReqResIntegratedApplication.Integration/1.0.0": {
+        "runtime": {
+          "ReqResIntegratedApplication.Integration.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssasa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReqResIntegratedApplication.Integration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
